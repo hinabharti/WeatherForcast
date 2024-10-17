@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a95c5727-bd87-46ca-a2c9-99ad8a1fb99b
+
 # 🌩️ Weather Watch
 
 Introducing *Weather Watch*, the app that delivers accurate weather forecasts, ensuring you’re always prepared for the day’s weather with a smile!
